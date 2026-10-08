@@ -1,0 +1,4 @@
+conflict_resolvers:
+  - paths:
+      - vm3-extres.txt
+    strategy: ours
